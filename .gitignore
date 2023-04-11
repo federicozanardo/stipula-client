@@ -1,0 +1,12 @@
+# Java
+*.class
+
+# C
+*.out
+
+# Other
+.DS_Store
+.gradle/*
+.idea/*
+.build/*
+build/*
