@@ -21,4 +21,4 @@ In the current version of the project, only three sample contracts are executed:
 
 Stipula implementation: https://github.com/federicozanardo/stipula-node
 
-Thesis: 
+Thesis: https://github.com/federicozanardo/stipula-thesis
